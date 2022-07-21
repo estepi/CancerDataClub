@@ -12,3 +12,8 @@ Grupo de análisis bioinformáticos de datos públicos relacionados a Cáncer
 
 # Objetivo
 Establecer buenas prácticas bioinformáticas para analizar  datos públicos relacionados a cáncer
+
+# Data Sources
+
+# Biological Questions
+ 
