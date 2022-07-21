@@ -9,3 +9,6 @@ Grupo de análisis bioinformáticos de datos públicos relacionados a Cáncer
 * Florencia Malizia, Lic Biotec, Estudiante de doctorado, UNR Rosario
 * Cintia Kaufman, Lic Biotec, Estudiante de doctorado, UNR Rosario
 
+
+# Objetivo
+Establecer buenas prácticas bioinformáticas para analizar  datos públicos relacionados a cáncer
